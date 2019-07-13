@@ -1,4 +1,4 @@
-Info:/Health: 10000/Speed: 2/Jump: 9/Fireballtype: 1/Hyper: 60,-60, 60,60, 60,-30/
+Info:/Health: 1000/Speed: 2/Jump: 9/Fireballtype: 1/Hyper: 60,-60, 60,60, 60,-30/
 Specials/fA:30/dA:31/dB:29/dpmfB:32/qcfA:33
 fi:1--att:4,0,10,10
 fi:1--att:5,0,10,10--vect:5,0/fi:2--att:6,100,6,4--vect:5,-8

@@ -1,0 +1,24 @@
+1. Open up command prompt
+
+2. In command prompt enter:
+   cd Desktop\Python Examples\python games\JumPYMan-Game **Ask for help if this part doesn't work. I probably know the solution**
+
+3. In command prompt enter:
+   python JumPYMan.py   **Ask for help if this part doesn't work. I probably know the solution**
+
+4. left arrow key -> move left
+
+5. right arrow key -> move right
+
+6. up arrow -> jump
+
+7. space bar -> shoot
+
+Hacking:
+
+1. Right click on the JumPYMan.py file
+
+2. Click Edit JumPYMan.py file with idle editor
+
+3. Edit the file (just the number values of variables you understand like GRAVITY or WALKING_SPEED)
+

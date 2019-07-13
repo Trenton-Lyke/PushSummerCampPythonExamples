@@ -1,0 +1,11 @@
+1. Open up mario_level_1.py
+
+2. Hit enter on 1 player game
+
+Hacking:
+
+1. Open the data folder
+
+2. Right click on the constants.py file
+
+3. Click edit the constants.py file with idle
